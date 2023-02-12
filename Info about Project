@@ -14,8 +14,30 @@ resturants, and places to visit. As we are begninner programmers in HTML,PHP, an
 
 
 The process you went through during the weekend (ex. any challenges)
-We first started by brainstorming what areas we wanted to work on. 
+We first started by brainstorming what areas we wanted to work on and wrote all of our ideas on a whiteboard. We found a common themes in all of our ideas 
+that they were focused on sustanability and we wanted to take a list based focus. We decided on our idea the first day to create a welcome to Boston website. 
+On day two we created a template for our webpage and each worked on a part of the website. All of the buisnees and locations we prompt on the site are
+sustainable in one way or another. For resturants we chose local buisneess that highlight recycling, supperoting the community, and sourcing ehtically. 
 
 What you learned this weekend
+In addtion to finding great camansionship, we learend how to use html and php to build a webpage. By referieng a temaplate and modifying it to fit our
+dream webpage it helped us learn the syntax. Addtionally, through debugging our code we learned how to work as a team to solve problems and locate errors. 
 
-Any future goals or next steps for the project
+Any future goals or next steps for the project:
+We would like to add more user interativity to the webpage, such as an path to susitnabale Boston activites. To do this we want to create a feature that 
+allows users to to create a wishlist of places they want to vist, and save those places to a running list. Going off of this users would be able to personalize
+the site by signing in so the data can be saved for each user. Ideally, users could use the site like a bucket list, where they want to go, and where they have
+been. Addtionally, we throught of adding a map so that users could pin where they have been, taking into account the coorinates and automatically placing the
+pin on the map. 
+
+Another one of our ideas is to have users click through options inthe format below to get sucgesstions on what to.
+  What do you want to do? Eat, Shop, Explore and an Activity 
+    What season would you like to travel?
+      What area would you like to travel to? 
+     
+     
+
+Reserve things through the site 
+Sustinable focus 
+Everything under a well detailed format 
+
